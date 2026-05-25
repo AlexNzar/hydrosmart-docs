@@ -3,7 +3,8 @@
 **Versión:** 9.5  
 **Última actualización:** Mayo 2026  
 **Autor:** Sistema de Riego Inteligente con IA  
-**Institución:** Universidad Tecnológica del Valle del Yaqui
+**Institución:** Universidad Nacional Rosario Castellanos
+Licenciatura en Ciencia de Datos para Negocios
 
 ---
 
