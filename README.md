@@ -1424,59 +1424,7 @@ streamlit run app.py
 
 ---
 
-## APÉNDICE B: CHECKLIST DE IMPLEMENTACIÓN
-
-**Pre-Instalación:**
-- [ ] Python 3.11+ instalado
-- [ ] pip actualizado (`pip install --upgrade pip`)
-- [ ] Editor de código (VS Code, PyCharm)
-- [ ] Git instalado (opcional)
-
-**Instalación:**
-- [ ] Crear directorio `hydrosmart/`
-- [ ] Crear archivo `app.py`
-- [ ] Crear archivo `requirements.txt`
-- [ ] Ejecutar `pip install -r requirements.txt`
-- [ ] Crear directorio `data/`
-
-**Configuración:**
-- [ ] Verificar que `init_data()` funcione
-- [ ] Probar `streamlit run app.py`
-- [ ] Acceder a http://localhost:8501
-- [ ] Verificar que todas las tabs carguen
-
-**Pruebas:**
-- [ ] Probar riego manual (click en botón)
-- [ ] Probar riego automático (esperar a que humedad < 35%)
-- [ ] Probar chat NLP ("humedad promedio", "regar bloque")
-- [ ] Verificar que CSVs se generen en `data/`
-- [ ] Probar cambio de tema (oscuro/claro)
-- [ ] Probar cambio de velocidad (1x, 2x, 3x)
-
-**Documentación:**
-- [ ] Capturar pantalla de Mapa
-- [ ] Capturar pantalla de Análisis
-- [ ] Capturar pantalla de Economía
-- [ ] Capturar pantalla de Arquitectura
-- [ ] Exportar CSVs de ejemplo
-
----
-
-## APÉNDICE C: CONTACTO Y SOPORTE
-
-**Desarrollo:**
-- Email: soporte@hydrosmart.mx
-- GitHub: https://github.com/hydrosmart
-- Issues: https://github.com/hydrosmart/app/issues
-
-**Soporte Técnico:**
-- Horario: Lunes a Viernes, 9:00 - 18:00
-- Tiempo de respuesta: 24-48 horas
-- Canal preferido: GitHub Issues
-
----
-
-**Documento elaborado por:** Equipo de Desarrollo HYDROSMART  
+**Documento elaborado por:** Hernandez Silva Lucia, Mancio Almanzar Erik Alejandro, Rúa Salinas Diana Itzel y Sanchez Sanchez Karen Itzel  
 **Fecha:** Mayo 2026  
 **Versión del documento:** 1.0  
 **Licencia:** MIT License
