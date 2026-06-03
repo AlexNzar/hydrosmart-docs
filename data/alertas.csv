@@ -1,0 +1,200 @@
+timestamp,parcela_id,nivel,mensaje,accion_tomada
+2026-04-26 20:27:04,4,critico,Humedad crítica: 31.200000000000003% en Bloque 401,Requiere acción manual
+2026-04-26 20:27:04,6,atencion,Humedad baja: 43.3% en Valle Verde,Monitoreo activo
+2026-04-26 20:27:04,7,atencion,Humedad baja: 41.09999999999996% en Lab Suelos ITSON,Monitoreo activo
+2026-04-26 20:27:14,7,critico,Humedad crítica: 39.49999999999996% en Lab Suelos ITSON,Requiere acción manual
+2026-04-26 20:27:24,6,critico,Humedad crítica: 39.3% en Valle Verde,Requiere acción manual
+2026-04-26 20:27:24,8,atencion,Humedad baja: 42.7% en Bacum,Monitoreo activo
+2026-04-26 20:27:34,4,atencion,Humedad baja: 40.2% en Bloque 401,Monitoreo activo
+2026-04-26 20:28:22,7,critico,Humedad crítica: 29.89999999999995% en Lab Suelos ITSON,Requiere acción manual
+2026-04-26 20:28:52,7,critico,Humedad crítica: 25.099999999999945% en Lab Suelos ITSON,Riego automático
+2026-04-26 20:28:52,8,critico,Humedad crítica: 22.700000000000003% en Bacum,Riego automático
+2026-04-26 20:29:02,6,critico,Humedad crítica: 26.299999999999997% en Valle Verde,Riego automático
+2026-04-26 20:29:23,4,critico,Humedad crítica: 34.2% en Bloque 401,Riego automático
+2026-04-26 20:29:23,7,critico,Humedad crítica: 34.099999999999945% en Lab Suelos ITSON,Riego automático
+2026-04-26 20:29:23,8,critico,Humedad crítica: 31.700000000000003% en Bacum,Riego automático
+2026-04-26 20:29:33,6,critico,Humedad crítica: 35.3% en Valle Verde,Riego automático
+2026-04-26 20:29:43,4,atencion,Humedad baja: 40.2% en Bloque 401,Monitoreo activo
+2026-04-26 20:29:43,7,atencion,Humedad baja: 40.099999999999945% en Lab Suelos ITSON,Monitoreo activo
+2026-04-26 20:29:53,1,critico,Humedad crítica: 38.800000000000104% en ITSON Experimental,Riego automático
+2026-04-26 20:29:53,6,atencion,Humedad baja: 41.3% en Valle Verde,Monitoreo activo
+2026-04-26 20:29:53,8,atencion,Humedad baja: 40.7% en Bacum,Monitoreo activo
+2026-04-26 20:30:24,1,critico,Humedad crítica: 33.40000000000011% en ITSON Experimental,Riego automático
+2026-04-26 20:30:34,2,atencion,Humedad baja: 43.400000000000006% en Campo Bórquez,Monitoreo activo
+2026-04-26 20:30:54,1,atencion,Humedad baja: 42.40000000000011% en ITSON Experimental,Monitoreo activo
+2026-04-26 20:30:54,2,critico,Humedad crítica: 39.400000000000006% en Campo Bórquez,Riego automático
+2026-04-26 20:31:25,2,critico,Humedad crítica: 33.400000000000006% en Campo Bórquez,Riego automático
+2026-04-26 20:31:45,5,atencion,Humedad baja: 43.899999999999906% en San Ignacio,Monitoreo activo
+2026-04-26 20:31:56,2,atencion,Humedad baja: 42.400000000000006% en Campo Bórquez,Monitoreo activo
+2026-04-26 20:32:16,3,atencion,Humedad baja: 43.8% en Ejido Esperanza,Monitoreo activo
+2026-04-26 20:32:16,5,critico,Humedad crítica: 38.7999999999999% en San Ignacio,Riego automático
+2026-04-26 20:32:47,3,critico,Humedad crítica: 39.3% en Ejido Esperanza,Riego automático
+2026-04-26 20:32:47,5,critico,Humedad crítica: 33.69999999999989% en San Ignacio,Riego automático
+2026-04-26 20:33:18,3,critico,Humedad crítica: 34.8% en Ejido Esperanza,Riego automático
+2026-04-26 20:33:18,5,atencion,Humedad baja: 42.69999999999989% en San Ignacio,Monitoreo activo
+2026-04-26 20:33:38,3,atencion,Humedad baja: 40.8% en Ejido Esperanza,Monitoreo activo
+2026-04-26 20:53:25,8,atencion,Humedad baja: 42.5% en Bacum,Monitoreo activo
+2026-04-26 20:53:46,8,critico,Humedad crítica: 37.5% en Bacum,Requiere acción manual
+2026-04-26 20:54:16,8,critico,Humedad crítica: 30.0% en Bacum,Requiere acción manual
+2026-04-26 20:54:47,8,critico,Humedad crítica: 22.5% en Bacum,Requiere acción manual
+2026-04-26 20:55:18,8,critico,Humedad crítica: 15.0% en Bacum,Requiere acción manual
+2026-04-26 20:55:28,7,atencion,Humedad baja: 44.00000000000012% en Lab Suelos ITSON,Monitoreo activo
+2026-04-26 20:55:38,6,atencion,Humedad baja: 43.0% en Valle Verde,Monitoreo activo
+2026-04-26 20:55:48,2,atencion,Humedad baja: 44.0% en Campo Bórquez,Monitoreo activo
+2026-04-26 20:55:48,5,atencion,Humedad baja: 43.499999999999815% en San Ignacio,Monitoreo activo
+2026-04-26 20:55:48,8,critico,Humedad crítica: 7.5% en Bacum,Requiere acción manual
+2026-04-26 20:55:59,3,atencion,Humedad baja: 43.8% en Ejido Esperanza,Monitoreo activo
+2026-04-26 20:55:59,6,critico,Humedad crítica: 39.0% en Valle Verde,Requiere acción manual
+2026-04-26 20:55:59,7,critico,Humedad crítica: 39.20000000000012% en Lab Suelos ITSON,Requiere acción manual
+2026-04-26 20:56:19,1,atencion,Humedad baja: 44.20000000000009% en ITSON Experimental,Monitoreo activo
+2026-04-26 20:56:19,2,critico,Humedad crítica: 38.0% en Campo Bórquez,Requiere acción manual
+2026-04-26 20:56:19,4,atencion,Humedad baja: 44.5% en Bloque 401,Monitoreo activo
+2026-04-26 20:56:19,5,critico,Humedad crítica: 38.39999999999981% en San Ignacio,Requiere acción manual
+2026-04-26 20:56:19,8,critico,Humedad crítica: 0.0% en Bacum,Requiere acción manual
+2026-04-26 20:56:29,3,critico,Humedad crítica: 39.3% en Ejido Esperanza,Requiere acción manual
+2026-04-26 20:56:29,6,critico,Humedad crítica: 33.0% en Valle Verde,Requiere acción manual
+2026-04-26 20:56:29,7,critico,Humedad crítica: 34.40000000000011% en Lab Suelos ITSON,Requiere acción manual
+2026-04-26 20:56:49,1,critico,Humedad crítica: 38.8000000000001% en ITSON Experimental,Requiere acción manual
+2026-04-26 20:56:49,2,critico,Humedad crítica: 32.0% en Campo Bórquez,Requiere acción manual
+2026-04-26 20:56:49,5,critico,Humedad crítica: 33.2999999999998% en San Ignacio,Requiere acción manual
+2026-04-26 20:56:49,8,critico,Humedad crítica: 0.0% en Bacum,Requiere acción manual
+2026-04-26 20:56:59,3,critico,Humedad crítica: 34.8% en Ejido Esperanza,Requiere acción manual
+2026-04-26 20:56:59,4,critico,Humedad crítica: 38.5% en Bloque 401,Requiere acción manual
+2026-04-26 20:56:59,6,critico,Humedad crítica: 27.0% en Valle Verde,Requiere acción manual
+2026-04-26 20:56:59,7,critico,Humedad crítica: 29.600000000000108% en Lab Suelos ITSON,Requiere acción manual
+2026-04-26 20:57:20,1,critico,Humedad crítica: 33.400000000000105% en ITSON Experimental,Requiere acción manual
+2026-04-26 20:57:20,2,critico,Humedad crítica: 26.0% en Campo Bórquez,Requiere acción manual
+2026-04-26 20:57:20,5,critico,Humedad crítica: 28.1999999999998% en San Ignacio,Requiere acción manual
+2026-04-26 20:57:20,8,critico,Humedad crítica: 0.0% en Bacum,Requiere acción manual
+2026-04-26 20:57:30,3,critico,Humedad crítica: 30.299999999999997% en Ejido Esperanza,Requiere acción manual
+2026-04-26 20:57:30,4,critico,Humedad crítica: 34.0% en Bloque 401,Requiere acción manual
+2026-04-26 20:57:30,6,critico,Humedad crítica: 21.0% en Valle Verde,Requiere acción manual
+2026-04-26 20:57:30,7,critico,Humedad crítica: 24.800000000000104% en Lab Suelos ITSON,Requiere acción manual
+2026-04-26 20:57:50,1,critico,Humedad crítica: 28.000000000000103% en ITSON Experimental,Requiere acción manual
+2026-04-26 20:57:50,2,critico,Humedad crítica: 20.0% en Campo Bórquez,Requiere acción manual
+2026-04-26 20:57:50,5,critico,Humedad crítica: 23.099999999999802% en San Ignacio,Requiere acción manual
+2026-04-26 20:57:50,8,critico,Humedad crítica: 0.0% en Bacum,Requiere acción manual
+2026-04-26 20:58:01,3,critico,Humedad crítica: 25.799999999999997% en Ejido Esperanza,Requiere acción manual
+2026-04-26 20:58:01,4,critico,Humedad crítica: 29.5% en Bloque 401,Requiere acción manual
+2026-04-26 20:58:01,6,critico,Humedad crítica: 15.0% en Valle Verde,Requiere acción manual
+2026-04-26 20:58:01,7,critico,Humedad crítica: 20.0000000000001% en Lab Suelos ITSON,Requiere acción manual
+2026-04-26 20:58:21,1,critico,Humedad crítica: 22.6000000000001% en ITSON Experimental,Requiere acción manual
+2026-04-26 20:58:21,2,critico,Humedad crítica: 14.0% en Campo Bórquez,Requiere acción manual
+2026-04-26 20:58:21,5,critico,Humedad crítica: 17.999999999999805% en San Ignacio,Requiere acción manual
+2026-04-26 20:58:21,8,critico,Humedad crítica: 0.0% en Bacum,Requiere acción manual
+2026-04-26 20:58:31,3,critico,Humedad crítica: 21.299999999999997% en Ejido Esperanza,Requiere acción manual
+2026-04-26 20:58:31,4,critico,Humedad crítica: 25.0% en Bloque 401,Requiere acción manual
+2026-04-26 20:58:31,6,critico,Humedad crítica: 9.0% en Valle Verde,Requiere acción manual
+2026-04-26 20:58:31,7,critico,Humedad crítica: 15.200000000000097% en Lab Suelos ITSON,Requiere acción manual
+2026-04-26 20:58:51,1,critico,Humedad crítica: 17.2000000000001% en ITSON Experimental,Requiere acción manual
+2026-04-26 20:58:51,2,critico,Humedad crítica: 8.0% en Campo Bórquez,Requiere acción manual
+2026-04-26 20:58:51,5,critico,Humedad crítica: 12.899999999999807% en San Ignacio,Requiere acción manual
+2026-04-26 20:58:51,8,critico,Humedad crítica: 0.0% en Bacum,Requiere acción manual
+2026-04-26 20:59:02,3,critico,Humedad crítica: 16.799999999999997% en Ejido Esperanza,Requiere acción manual
+2026-04-26 20:59:02,4,critico,Humedad crítica: 20.5% en Bloque 401,Requiere acción manual
+2026-04-26 20:59:02,6,critico,Humedad crítica: 3.0% en Valle Verde,Requiere acción manual
+2026-04-26 20:59:02,7,critico,Humedad crítica: 10.400000000000098% en Lab Suelos ITSON,Requiere acción manual
+2026-04-26 20:59:22,1,critico,Humedad crítica: 11.800000000000097% en ITSON Experimental,Requiere acción manual
+2026-04-26 20:59:22,2,critico,Humedad crítica: 2.0% en Campo Bórquez,Requiere acción manual
+2026-04-26 20:59:22,5,critico,Humedad crítica: 7.799999999999808% en San Ignacio,Requiere acción manual
+2026-04-26 20:59:22,8,critico,Humedad crítica: 0.0% en Bacum,Requiere acción manual
+2026-04-26 20:59:33,3,critico,Humedad crítica: 12.299999999999997% en Ejido Esperanza,Requiere acción manual
+2026-04-26 20:59:33,4,critico,Humedad crítica: 16.0% en Bloque 401,Requiere acción manual
+2026-04-26 20:59:33,6,critico,Humedad crítica: 0.0% en Valle Verde,Requiere acción manual
+2026-04-26 20:59:33,7,critico,Humedad crítica: 5.600000000000099% en Lab Suelos ITSON,Requiere acción manual
+2026-04-26 20:59:53,1,critico,Humedad crítica: 6.400000000000095% en ITSON Experimental,Requiere acción manual
+2026-04-26 20:59:53,2,critico,Humedad crítica: 0.0% en Campo Bórquez,Requiere acción manual
+2026-04-26 20:59:53,5,critico,Humedad crítica: 2.6999999999998074% en San Ignacio,Requiere acción manual
+2026-04-26 20:59:53,8,critico,Humedad crítica: 0.0% en Bacum,Requiere acción manual
+2026-04-26 21:00:03,3,critico,Humedad crítica: 7.799999999999997% en Ejido Esperanza,Requiere acción manual
+2026-04-26 21:00:03,4,critico,Humedad crítica: 11.5% en Bloque 401,Requiere acción manual
+2026-04-26 21:00:03,6,critico,Humedad crítica: 0.0% en Valle Verde,Requiere acción manual
+2026-04-26 21:00:03,7,critico,Humedad crítica: 0.8000000000000993% en Lab Suelos ITSON,Requiere acción manual
+2026-04-26 21:00:24,1,critico,Humedad crítica: 1.0000000000000957% en ITSON Experimental,Requiere acción manual
+2026-04-26 21:00:24,2,critico,Humedad crítica: 0.0% en Campo Bórquez,Requiere acción manual
+2026-04-26 21:00:24,5,critico,Humedad crítica: 0.0% en San Ignacio,Requiere acción manual
+2026-04-26 21:00:24,8,critico,Humedad crítica: 0.0% en Bacum,Requiere acción manual
+2026-04-26 21:00:34,3,critico,Humedad crítica: 3.299999999999997% en Ejido Esperanza,Requiere acción manual
+2026-04-26 21:00:34,4,critico,Humedad crítica: 7.0% en Bloque 401,Requiere acción manual
+2026-04-26 21:00:34,6,critico,Humedad crítica: 0.0% en Valle Verde,Requiere acción manual
+2026-04-26 21:00:34,7,critico,Humedad crítica: 0.0% en Lab Suelos ITSON,Requiere acción manual
+2026-04-26 21:00:54,1,critico,Humedad crítica: 0.0% en ITSON Experimental,Requiere acción manual
+2026-04-26 21:00:54,2,critico,Humedad crítica: 0.0% en Campo Bórquez,Requiere acción manual
+2026-04-26 21:00:54,5,critico,Humedad crítica: 0.0% en San Ignacio,Requiere acción manual
+2026-04-26 21:00:54,8,critico,Humedad crítica: 0.0% en Bacum,Requiere acción manual
+2026-04-26 21:01:05,3,critico,Humedad crítica: 0.0% en Ejido Esperanza,Requiere acción manual
+2026-04-26 21:01:05,4,critico,Humedad crítica: 2.5% en Bloque 401,Requiere acción manual
+2026-04-26 21:01:05,6,critico,Humedad crítica: 0.0% en Valle Verde,Requiere acción manual
+2026-04-26 21:01:05,7,critico,Humedad crítica: 0.0% en Lab Suelos ITSON,Requiere acción manual
+2026-04-26 21:01:25,1,critico,Humedad crítica: 0.0% en ITSON Experimental,Requiere acción manual
+2026-04-26 21:01:25,2,critico,Humedad crítica: 0.0% en Campo Bórquez,Requiere acción manual
+2026-04-26 21:01:25,5,critico,Humedad crítica: 0.0% en San Ignacio,Requiere acción manual
+2026-04-26 21:01:25,8,critico,Humedad crítica: 0.0% en Bacum,Requiere acción manual
+2026-04-26 21:01:35,3,critico,Humedad crítica: 0.0% en Ejido Esperanza,Requiere acción manual
+2026-04-26 21:01:35,4,critico,Humedad crítica: 0.0% en Bloque 401,Requiere acción manual
+2026-04-26 21:01:35,6,critico,Humedad crítica: 0.0% en Valle Verde,Requiere acción manual
+2026-04-26 21:01:35,7,critico,Humedad crítica: 0.0% en Lab Suelos ITSON,Requiere acción manual
+2026-04-26 21:01:56,1,critico,Humedad crítica: 0.0% en ITSON Experimental,Requiere acción manual
+2026-04-26 21:01:56,2,critico,Humedad crítica: 0.0% en Campo Bórquez,Requiere acción manual
+2026-04-26 21:01:56,5,critico,Humedad crítica: 0.0% en San Ignacio,Requiere acción manual
+2026-04-26 21:01:56,8,critico,Humedad crítica: 0.0% en Bacum,Requiere acción manual
+2026-04-26 21:02:06,3,critico,Humedad crítica: 0.0% en Ejido Esperanza,Requiere acción manual
+2026-04-26 21:02:06,4,critico,Humedad crítica: 0.0% en Bloque 401,Requiere acción manual
+2026-04-26 21:02:06,6,critico,Humedad crítica: 0.0% en Valle Verde,Requiere acción manual
+2026-04-26 21:02:06,7,critico,Humedad crítica: 0.0% en Lab Suelos ITSON,Requiere acción manual
+2026-04-26 21:02:26,1,critico,Humedad crítica: 0.0% en ITSON Experimental,Requiere acción manual
+2026-04-26 21:02:26,2,critico,Humedad crítica: 0.0% en Campo Bórquez,Requiere acción manual
+2026-04-26 21:02:26,5,critico,Humedad crítica: 0.0% en San Ignacio,Requiere acción manual
+2026-04-26 21:02:26,8,critico,Humedad crítica: 0.0% en Bacum,Requiere acción manual
+2026-04-26 21:02:37,3,critico,Humedad crítica: 0.0% en Ejido Esperanza,Requiere acción manual
+2026-04-26 21:02:37,4,critico,Humedad crítica: 0.0% en Bloque 401,Requiere acción manual
+2026-04-26 21:02:37,6,critico,Humedad crítica: 0.0% en Valle Verde,Requiere acción manual
+2026-04-26 21:02:37,7,critico,Humedad crítica: 0.0% en Lab Suelos ITSON,Requiere acción manual
+2026-04-26 21:02:57,1,critico,Humedad crítica: 0.0% en ITSON Experimental,Requiere acción manual
+2026-04-26 21:02:57,2,critico,Humedad crítica: 0.0% en Campo Bórquez,Requiere acción manual
+2026-04-26 21:02:57,5,critico,Humedad crítica: 0.0% en San Ignacio,Requiere acción manual
+2026-04-26 21:02:57,8,critico,Humedad crítica: 0.0% en Bacum,Requiere acción manual
+2026-04-26 21:03:07,3,critico,Humedad crítica: 0.0% en Ejido Esperanza,Requiere acción manual
+2026-04-26 21:03:07,4,critico,Humedad crítica: 0.0% en Bloque 401,Requiere acción manual
+2026-04-26 21:03:07,6,critico,Humedad crítica: 0.0% en Valle Verde,Requiere acción manual
+2026-04-26 21:03:07,7,critico,Humedad crítica: 0.0% en Lab Suelos ITSON,Requiere acción manual
+2026-04-26 21:03:27,1,critico,Humedad crítica: 0.0% en ITSON Experimental,Requiere acción manual
+2026-04-26 21:03:27,2,critico,Humedad crítica: 0.0% en Campo Bórquez,Requiere acción manual
+2026-04-26 21:03:27,5,critico,Humedad crítica: 0.0% en San Ignacio,Requiere acción manual
+2026-04-26 21:03:27,8,critico,Humedad crítica: 0.0% en Bacum,Requiere acción manual
+2026-04-26 21:03:38,3,critico,Humedad crítica: 0.0% en Ejido Esperanza,Requiere acción manual
+2026-04-26 21:03:38,4,critico,Humedad crítica: 0.0% en Bloque 401,Requiere acción manual
+2026-04-26 21:03:38,6,critico,Humedad crítica: 0.0% en Valle Verde,Requiere acción manual
+2026-04-26 21:03:38,7,critico,Humedad crítica: 0.0% en Lab Suelos ITSON,Requiere acción manual
+2026-04-26 22:46:27,8,critico,Humedad <40%: Bacum,Verificar
+2026-04-26 22:47:02,1,critico,Humedad <40%: ITSON Experimental,Verificar
+2026-04-26 22:47:02,2,critico,Humedad <40%: Campo Bórquez,Verificar
+2026-04-26 22:47:02,4,critico,Humedad <40%: Bloque 401,Verificar
+2026-04-26 22:47:02,8,critico,Humedad <40%: Bacum,Verificar
+2026-04-26 22:48:58,1,critico,Humedad <40%: ITSON Experimental,Verificar
+2026-04-26 22:48:58,2,critico,Humedad <40%: Campo Bórquez,Verificar
+2026-04-26 22:48:58,8,critico,Humedad <40%: Bacum,Verificar
+2026-04-26 22:49:40,1,critico,Humedad <40%: ITSON Experimental,Verificar
+2026-04-26 22:49:40,2,critico,Humedad <40%: Campo Bórquez,Verificar
+2026-04-26 22:49:40,4,critico,Humedad <40%: Bloque 401,Verificar
+2026-04-26 22:49:40,6,critico,Humedad <40%: Valle Verde,Verificar
+2026-04-26 22:49:40,8,critico,Humedad <40%: Bacum,Verificar
+2026-04-26 22:50:05,1,critico,Humedad <40%: ITSON Experimental,Verificar
+2026-04-26 22:50:05,2,critico,Humedad <40%: Campo Bórquez,Verificar
+2026-04-26 22:50:05,4,critico,Humedad <40%: Bloque 401,Verificar
+2026-04-26 22:50:05,6,critico,Humedad <40%: Valle Verde,Verificar
+2026-04-26 22:50:05,8,critico,Humedad <40%: Bacum,Verificar
+2026-04-26 22:50:21,1,critico,Humedad <40%: ITSON Experimental,Verificar
+2026-04-26 22:50:21,2,critico,Humedad <40%: Campo Bórquez,Verificar
+2026-04-26 22:50:21,4,critico,Humedad <40%: Bloque 401,Verificar
+2026-04-26 22:50:21,6,critico,Humedad <40%: Valle Verde,Verificar
+2026-04-26 22:50:21,8,critico,Humedad <40%: Bacum,Verificar
+2026-04-26 22:50:37,1,critico,Humedad <40%: ITSON Experimental,Verificar
+2026-04-26 22:50:37,2,critico,Humedad <40%: Campo Bórquez,Verificar
+2026-04-26 22:50:37,3,critico,Humedad <40%: Ejido Esperanza,Verificar
+2026-04-26 22:50:37,4,critico,Humedad <40%: Bloque 401,Verificar
+2026-04-26 22:50:37,5,critico,Humedad <40%: San Ignacio,Verificar
+2026-04-26 22:50:37,6,critico,Humedad <40%: Valle Verde,Verificar
+2026-04-26 22:50:37,8,critico,Humedad <40%: Bacum,Verificar
+2026-05-02 23:29:01,3,critico,Humedad crítica: 0.0% en Ejido Esperanza,Riego automático
+2026-05-02 23:29:01,7,critico,Humedad crítica: 28.1% en Lab Suelos ITSON,Riego automático
