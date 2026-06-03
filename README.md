@@ -2,9 +2,9 @@
 
 **Versión:** 9.5  
 **Última actualización:** Mayo 2026  
-**Autor:** Sistema de Riego Inteligente con IA  
-**Institución:** Universidad Nacional Rosario Castellanos
-**Licenciatura:** Ciencia de Datos para Negocios
+**Autores:** Hernandez Silva Lucia, Mancio Almanzar Erik Alejandro, Rúa Salinas Diana Itzel y Sanchez Sanchez Karen Itzel  
+**Institución:** Universidad Nacional Rosario Castellanos  
+**Licenciatura:** Ciencia de Datos para Negocios  
 
 ---
 
